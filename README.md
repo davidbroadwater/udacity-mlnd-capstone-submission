@@ -21,3 +21,6 @@ All of the data required for this project is located in `ATP.csv`.
 
 ### Data Profiles
 Data profiles are generated at various stages of the data processing pipeline as part of the notebook, and can be opened in a browser. 
+
+### Capstone Proposal
+[Review Link](https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=71ea6052-6eeb-4a75-94a6-0b048302fea6&bsft_uid=1574d258-b01b-47ec-adb4-b14ec2a7fc16&bsft_mid=f39d7b9c-8879-4980-bea0-ffb0cab7ff54&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=b0759ee2-a0ab-4e19-a495-343123226ede#!/reviews/1714867)
