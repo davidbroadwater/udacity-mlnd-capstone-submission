@@ -3,7 +3,7 @@ Capstone project for Udacity Machine Learning Nanodegree
 
 ### Packages/Software
 
-All code was writting in a Jupyter notebook running Python 3.7. A list of the libraries and packages is provided below, along with links for the less well known packages. All packages listed can be installed via pip. Note that n_jobs has been set to `-1` (max number available) in most cases. On my 2012 4-core iMac, the entire notebook takes a couple hours to run (primarily due to two ~40 minute parameter tuning steps; YMMV).
+All code was written in a Jupyter notebook running Python 3.7. A list of the libraries and packages is provided below, along with links for the less well known packages. All packages listed can be installed via pip. Note that n_jobs has been set to `-1` (max number available) in most cases. On my 2012 4-core iMac, the entire notebook takes a couple hours to run (primarily due to two ~40 minute parameter tuning steps; YMMV).
 
 Packages:
 - pandas
